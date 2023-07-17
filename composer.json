@@ -1,9 +1,19 @@
 {
-    "name": "chemezov/yii2-yandex-cloud",
+    "name": "lilicbush/yii2-yandex-cloud",
     "type": "yii2-extension",
     "description": "An Yandex Cloud component for Yii2",
-    "keywords": ["yii2", "aws", "s3", "aws-s3", "yii2-aws", "yii2-s3", "yandex", "cloud", "bucket"],
-    "homepage": "https://github.com/chemezov/yii2-yandex-cloud",
+    "keywords": [
+        "yii2",
+        "aws",
+        "s3",
+        "aws-s3",
+        "yii2-aws",
+        "yii2-s3",
+        "yandex",
+        "cloud",
+        "bucket"
+    ],
+    "homepage": "https://github.com/lilicbush/yii2-yandex-cloud",
     "license": "MIT",
     "authors": [
         {
@@ -30,7 +40,7 @@
     },
     "autoload": {
         "psr-4": {
-            "chemezov\\yii2\\yandex\\cloud\\": "src/"
+            "lilicbush\\yii2\\yandex\\cloud\\": "src/"
         }
     }
 }
